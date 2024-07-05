@@ -22,8 +22,8 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
+  ui[0]: "Data in"
+  ui[1]: "Clock enable"
   ui[2]: ""
   ui[3]: ""
   ui[4]: ""
@@ -32,7 +32,7 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
+  uo[0]: "Data out"
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
