@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
   title:        "Intel 1404 analogue"      # Project title
-  author:       ""      # Your name
+  author:       "Happy Monk"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "1024-bit shift register"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
