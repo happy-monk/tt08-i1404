@@ -16,7 +16,7 @@ module tt_um_i1404 (
     input  wire       rst_n     // reset_n - low to reset
 );
 
-  parameter DEPTH = 1024;
+  parameter DEPTH = 256;
 
   reg [DEPTH-1:0] shift_reg;
   wire din, clken, dout;
